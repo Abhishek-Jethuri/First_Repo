@@ -1,3 +1,3 @@
 # Heading
 
-This project does something.
+This project does something!
