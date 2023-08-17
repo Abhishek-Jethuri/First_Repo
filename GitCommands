@@ -1,0 +1,26 @@
+# To clone a repo to your local machine
+git clone "RepoLink"
+RepoLink can be HTTPS or SSH but SSH is preferred.
+To clone it with a custom name
+git clone "RepoLink" "CustomName"
+
+# To check the status of the local files
+After going inside the local projects's folder
+git status
+
+# To choose/stage files to commit
+git add FileName1 FileName2
+or to choose all files
+git add .
+or
+git add --a
+or
+git add --all
+
+# To commit changes
+After adding files to be committed
+git commit
+
+## To pass commit message and/or description
+git commit -m "CommitMessage" -m "CommitDescription"
+
