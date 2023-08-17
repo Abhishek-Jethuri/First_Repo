@@ -16,6 +16,7 @@ or
 git add --a
 or
 git add --all
+Note: Any
 
 # To commit changes
 After adding files to be committed
@@ -25,3 +26,4 @@ git commit
 git commit -m "CommitMessage" -m "CommitDescription"
 
 # I will add rest soon
+# This was added after using add command but before commit.
