@@ -24,3 +24,4 @@ git commit
 ## To pass commit message and/or description
 git commit -m "CommitMessage" -m "CommitDescription"
 
+# I will add rest soon
